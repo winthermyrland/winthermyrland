@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @winthermyrland
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Offensive Security
+- Hi, I’m @winthermyrland
+- I’m interested in Cyber Security
