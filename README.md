@@ -1,2 +1,4 @@
 - Hi, I’m @winthermyrland
-- I’m interested in Cyber Security
+- Blue team maxxing
+- You're in my text file 🗒️
+- All my repos are private
