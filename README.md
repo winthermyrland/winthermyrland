@@ -1,3 +1,3 @@
 - Hi, I’m @winthermyrland
 - Blue team maxxing
-- I do React, Python, C#/C++ and Powershell+Azure
+- React, Python, C#/C++ and Powershell+Azure
