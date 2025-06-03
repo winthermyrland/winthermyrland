@@ -1,4 +1,3 @@
 - Hi, I’m @winthermyrland
 - Blue team maxxing
-- You're in my text file 🗒️
-- All my repos are private
+- I do React, Python, C#/C++ and Powershell+Azure
