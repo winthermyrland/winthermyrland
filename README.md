@@ -1,3 +1,4 @@
 - Hi, I’m @winthermyrland
+- Experienced Infra/Azure Hybrid Specialist
 - Sometimes I write code
 - Sometimes I don't
